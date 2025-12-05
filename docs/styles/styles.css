@@ -1,0 +1,10 @@
+html {
+    background-color: #fffffe;
+    font-family: sans-serif;
+    color: #000001;
+}
+
+h1 {
+    text-align: center;
+    border: solid 0.1rem;
+}
